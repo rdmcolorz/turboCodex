@@ -1,4 +1,4 @@
-const gpt3ApiKey = "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";
+const gpt3ApiKey = "<apikey";
 
 function handleMessageFromPopup(message, sender, sendResponse) {
   console.log("got message from popup")

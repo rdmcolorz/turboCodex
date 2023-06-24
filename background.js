@@ -1,4 +1,4 @@
-const gpt3ApiKey = "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";
+const gpt3ApiKey = "<apiKey>";
 
 function sendResponse(messageData) {
   console.log('sending response from openai')
