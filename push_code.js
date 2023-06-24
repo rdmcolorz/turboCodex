@@ -1,0 +1,1 @@
+document.querySelectorAll('.CodeMirror')[0]?.CodeMirror?.setValue('Testing out the code');
