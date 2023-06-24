@@ -2,6 +2,7 @@
 
 ## Dependencies
 - `npm install --global web-ext`
+- update apiKey in `background.js` and `content_script.js`
 
 ## Running extension
 - `web-ext run`
